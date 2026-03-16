@@ -137,7 +137,7 @@ sectors, with notable intrusions at high-profile organizations throughout 2023-2
 
 ```bash
 # Clone the repository
-git clone https://github.com/[yourusername]/parallax.git
+git clone https://github.com/isabellasanlorenzo/parallax.git
 cd parallax
 
 # Create a virtual environment (recommended)
